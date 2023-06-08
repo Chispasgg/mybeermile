@@ -23,6 +23,6 @@ No importa si eres un novato curioso o un cervecero experimentado, en Una Milla 
 ¡Síguenos en las redes sociales para estar al día de nuestras novedades y eventos emocionantes!
 
 - Instagram: [Enlace a Instagram](https://www.instagram.com/mybeermile/)
-- [English](index_en.md)
+- [English](index.md)
 
 with <span style="color: yellow;">&#10084;</span> by mybeermile team
